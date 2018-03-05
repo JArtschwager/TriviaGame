@@ -1,0 +1,46 @@
+body {
+    background-image: url("../images/ruthie-163318-unsplash.jpg");
+}
+
+.top-border {
+    background-color: rgba(130,160,188,0.5);
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.timerText {
+    font-size: 50px;
+    color: rgb(6, 29, 21);
+}
+
+.tagline {
+    font-size: 20px;
+    color: #304D6D;
+}
+
+.textBox {
+    background-color: rgba(61, 124, 124, 0.7);
+    color: black;
+    font-size: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 20px;
+    
+}
+
+.footer {
+    text-align: center;
+    background-color: rgba(130,160,188,0.5);
+    border-top: 2px solid #006c84; 
+    color: #006c84;
+    position: sticky;
+
+}
+
+.btnlink {
+    color: #304D6D;
+    padding: 10px;
+    border: 2px solid #006c84;
+     margin: 10px; 
+     /* add the on hover thing that stops it from turning blue */
+}
